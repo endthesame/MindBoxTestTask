@@ -1,0 +1,12 @@
+D:\c sharp proj\Tests\Library\Squares\Squares\bin\Debug\net6.0\Squares.deps.json
+D:\c sharp proj\Tests\Library\Squares\Squares\bin\Debug\net6.0\Squares.dll
+D:\c sharp proj\Tests\Library\Squares\Squares\bin\Debug\net6.0\ref\Squares.dll
+D:\c sharp proj\Tests\Library\Squares\Squares\bin\Debug\net6.0\Squares.pdb
+D:\c sharp proj\Tests\Library\Squares\Squares\obj\Debug\net6.0\Squares.csproj.AssemblyReference.cache
+D:\c sharp proj\Tests\Library\Squares\Squares\obj\Debug\net6.0\Squares.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp proj\Tests\Library\Squares\Squares\obj\Debug\net6.0\Squares.AssemblyInfoInputs.cache
+D:\c sharp proj\Tests\Library\Squares\Squares\obj\Debug\net6.0\Squares.AssemblyInfo.cs
+D:\c sharp proj\Tests\Library\Squares\Squares\obj\Debug\net6.0\Squares.csproj.CoreCompileInputs.cache
+D:\c sharp proj\Tests\Library\Squares\Squares\obj\Debug\net6.0\Squares.dll
+D:\c sharp proj\Tests\Library\Squares\Squares\obj\Debug\net6.0\ref\Squares.dll
+D:\c sharp proj\Tests\Library\Squares\Squares\obj\Debug\net6.0\Squares.pdb

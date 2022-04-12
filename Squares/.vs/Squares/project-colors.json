@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcc62a36-1563-4e48-88ae-8b9ba8bc9148": {
+      "ProjectGuid": "fcc62a36-1563-4e48-88ae-8b9ba8bc9148",
+      "DisplayName": "SquaresTests",
+      "ColorIndex": 0
+    },
+    "ada0baf7-366c-472d-9076-8fae1e325125": {
+      "ProjectGuid": "ada0baf7-366c-472d-9076-8fae1e325125",
+      "DisplayName": "Squares",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
